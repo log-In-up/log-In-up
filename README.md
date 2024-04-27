@@ -9,18 +9,14 @@
 
 
 ### Что я делаю сейчас:  
-- 🌱 Работаю над [Собственной игрой](https://github.com/log-In-up/New-EM)  
-  
-
+- 🌱 Работаю над [Собственной игрой](https://github.com/log-In-up/New-EM)
 - 🔭 Изучаю C++ и Unreal Engine.  
   
 
 
 
 ### Интересные факты:  
-- 🎓 Нравится учиться чему-то новому.  
-  
-
+- 🎓 Нравится учиться чему-то новому.
 - 💻 Предпочитаю решать задачи системным подходом.  
 
 <br/>
@@ -30,7 +26,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=log-in-up" alt="log-in-up" />
+    <img src="https://github-profile-trophy.vercel.app/?username=log-in-up&theme=dark" alt="log-in-up" />
   </a>
 </p>
 
