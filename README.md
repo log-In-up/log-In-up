@@ -12,12 +12,10 @@
 - 🎓 Нравится учиться чему-то новому.
 - 💻 Предпочитаю решать задачи системным подходом.  
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 
-## My Skill Set  
+## Мои навыки
 <table>
   <tr>
     <td valign="top" width="33%">
@@ -42,6 +40,7 @@
   </tr>
 </table>
 
+### Статистика профиля
 <br/>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=log-in-up&label=Profile%20views&color=0e75b6&style=flat" alt="log-in-up" />
