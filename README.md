@@ -1,16 +1,29 @@
-### Hi there 👋
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<!--
-**log-In-up/log-In-up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Я Руслан, страстный разработчик видеоигр, 👨‍💻 изучающий GameDev и создающий игры с 2021 года  🚀  
+  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Что я делаю сейчас:  
+- 🌱 Работаю над [Собственной игрой](https://github.com/log-In-up/New-EM)  
+  
+
+- 🔭 Изучаю C++ и Unreal Engine.  
+  
+
+
+
+### Интересные факты:  
+- 🎓 Нравится учиться чему-то новому.  
+  
+
+- 💻 Предпочитаю решать задачи системным подходом.  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
