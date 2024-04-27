@@ -12,16 +12,7 @@
 - 🎓 Нравится учиться чему-то новому.
 - 💻 Предпочитаю решать задачи системным подходом.  
 
-<br/>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=log-in-up&label=Profile%20views&color=0e75b6&style=flat" alt="log-in-up" />
-</p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=log-in-up&theme=dark" alt="log-in-up" />
-  </a>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
@@ -52,6 +43,16 @@
 </table>
 
 <br/>  
+<br/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=log-in-up&label=Profile%20views&color=0e75b6&style=flat" alt="log-in-up" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=log-in-up&theme=dark" alt="log-in-up" />
+  </a>
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=log-in-up&show_icons=true&theme=dark&locale=ru" alt="log-in-up"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=log-in-up&show_icons=true&theme=dark&locale=ru" alt="log-in-up"/></p>
