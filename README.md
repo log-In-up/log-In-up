@@ -41,6 +41,7 @@
 </table>
 
 ### Статистика профиля
+---
 <br/>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=log-in-up&label=Profile%20views&color=0e75b6&style=flat" alt="log-in-up" />
