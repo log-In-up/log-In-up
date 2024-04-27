@@ -40,19 +40,23 @@
   </tr>
 </table>
 
-### Статистика профиля
----
-<br/>
+<h3 align="left">🔥 Статистика профиля:</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=log-in-up&locale=en&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=log-in-up&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=log-in-up&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=log-in-up&label=Profile%20views&color=0e75b6&style=flat" alt="log-in-up" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=log-in-up&theme=dark" alt="log-in-up" />
-  </a>
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=log-in-up&show_icons=true&theme=dark&locale=ru" alt="log-in-up"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=log-in-up&show_icons=true&theme=dark&locale=ru" alt="log-in-up"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=log-In-up&theme=dark&locale=ru" alt="log-in-up"/></p>
+</p>*/
