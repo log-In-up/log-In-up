@@ -72,4 +72,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=log-in-up&show_icons=true&theme=dark&locale=ru" alt="log-in-up"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=log-in-up&show_icons=true&theme=dark&locale=ru" alt="log-in-up"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=log-In-up&hide_border=true&theme=dark&locale=ru" alt="log-in-up"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=log-In-up&theme=dark&locale=ru" alt="log-in-up"/></p>
